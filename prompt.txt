@@ -1,0 +1,13 @@
+Hello, friend!
+
+I'm in the process of creating a vocabulary card game tailored for adults.
+For this, I require images that are vivid, cartoon-styled, and represent the essence of specific words.
+
+When generating these images, please ensure:
+
+* They are colorful and cartoon-styled without any text.
+* They are square-shaped.
+* They vividly represent the word's concept through various scenes.
+* The word itself should not appear in the image or be used in the prompt for image generation.
+
+With the above guidelines in mind, I'll provide you with words individually.
